@@ -228,7 +228,3 @@ reflect data generation artefacts rather than genuine predictive performance.
 
 ---
 
-
-# Launch notebook
-jupyter notebook ott_churn_syntheticds.ipynb
-```
